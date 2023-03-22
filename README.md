@@ -1,2 +1,2 @@
-# Android-App-Sangwok
+# Android_App_Sangwok
 상욱
